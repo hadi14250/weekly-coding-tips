@@ -34,9 +34,3 @@ This pattern can be helpful for:
 1. Censoring strings (e.g., replacing all characters with `*`).
 2. Formatting text by repeating a single character.
 3. Quickly modifying or generating patterns in strings.
-
-## Challenge Time!
-
-Try modifying this function to add a space between each character in the output!
-
-Happy coding! 🚀
