@@ -1,4 +1,4 @@
-# JavaScript Tip: Replacing Characters in a String with Spread Syntax and `map()`
+# The spread [...] and map() method in Javascript
 
 This week’s coding tip dives into a clever way to replace every character in a string with another character in JavaScript using the spread syntax and the `map()` function!
 
