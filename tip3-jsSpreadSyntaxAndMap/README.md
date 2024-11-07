@@ -7,7 +7,7 @@ This week's coding tip explores a concise technique to replace every character i
 
 In JavaScript, the spread syntax (`...`) can decompose an iterable, such as a string or an array, into individual elements. When combined with the `map()` function, which transforms each element in an array, you can efficiently manipulate and replace characters in a string—all in one line of code!
 
-## Example
+### Example
 
 Take a look at this implementation:
 
