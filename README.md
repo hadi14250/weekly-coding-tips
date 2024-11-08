@@ -7,7 +7,7 @@ No matter where you are on your coding journey, there’s always room to learn s
 
 - Boost your productivity
 - Improve your workflow
-- Help you write better code
+- Help you write better, more optimised and cleaner code
 
 ### How to Stay Updated
 If this sounds useful to you, feel free to star this repo and check back weekly for new tips.
