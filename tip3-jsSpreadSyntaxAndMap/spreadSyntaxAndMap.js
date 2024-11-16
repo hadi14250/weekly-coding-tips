@@ -22,5 +22,6 @@ console.log(contamination("Repeat", 'r'));
 console.log(contamination("Multiple    spaces", '.'));
 console.log(contamination("Symbols!@#$%", '9'));
 console.log(contamination("MixOfLetters12345", 'X'));
+console.log(contamination("MixOfLetters12345", '2'));
 
   
