@@ -23,5 +23,6 @@ console.log(contamination("Multiple    spaces", '.'));
 console.log(contamination("Symbols!@#$%", '9'));
 console.log(contamination("MixOfLetters12345", 'X'));
 console.log(contamination("MixOfLetters12345", '2'));
+console.log(contamination("dewlifjbrklgbrehwfbewjhkfbewkfewfbkjewfewfewferwfklewrbfklewrbfekljwbfkewbfkewbfewbfoghruipwgwufghuirpwfgierupigfuirw3pt4379tg3pr77gp9ugfuherpufruwfigrwgfiurfgwriufrwufbgwrpougebipfberifpreiufipuerferwibufbegiurwubigfrbeiuwfiberuwfbiuerbuifrbewuifbuierwbufbuiwrbeuifbuiebuwbfebiwfbiubewfbiuebiubeiuwfewbifebiebiuwfbifbiufbiuwbiubfiuebwiubiufbuifwbuifewbifbiw;bwefwb;ib;feb;fe;fb;eb;fefbewbfiewfuipg4eugf4ugipf2egifeufeugi2ugifeg", '.'));
 
   
