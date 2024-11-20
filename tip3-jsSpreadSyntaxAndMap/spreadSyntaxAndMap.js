@@ -2,6 +2,7 @@ function contamination(text, char){
     return [...text].map((c) => char).join("")
   }
 
+  console.log(contamination("MixOfLetters12345", '1'));
 console.log(contamination("abc", 'z'));
 console.log(contamination("", 'z'));
 console.log(contamination("hello world", '*'));
