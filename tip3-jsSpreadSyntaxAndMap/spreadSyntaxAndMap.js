@@ -13,6 +13,7 @@ console.log(contamination("abcdefghijk", 'x'));
 console.log(contamination("Contamination", 'c'));
 console.log(contamination(" ", '-'));
 console.log(contamination("UpperCaseTEST", 'L'));
+console.log(contamination("UpperCaseTEST2", 'x'));
 console.log(contamination("xyz123", '1'));
 console.log(contamination("!@#$%^", '?'));
 console.log(contamination("Long text input!", '!'));
