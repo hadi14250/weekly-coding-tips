@@ -30,3 +30,4 @@ console.log(contamination(";bwefwb;ib;feb;fe;fb;eb;fefbewbfiewfuipg4eugf4ugipf2e
 console.log(contamination("MixOfLetters12345", '9'));
 console.log(contamination("dfrghtgfddfrghtgfddfrghtgfddfrghtgfddfrghtgfddfrghtgfd", '--'));
 console.log(contamination("hello world", '#'));
+console.log(contamination("                                                                                                                                                                                                                                                  ", '.'));
