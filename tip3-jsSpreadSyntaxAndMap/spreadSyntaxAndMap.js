@@ -32,3 +32,4 @@ console.log(contamination("dfrghtgfddfrghtgfddfrghtgfddfrghtgfddfrghtgfddfrghtgf
 console.log(contamination("hello world", '#'));
 console.log(contamination("                                                                                                                                                                                                                                                  ", '.'));
 console.log(contamination("987654321", '0'));
+console.log(contamination("`````````````````````'''''''''''''987654321'''''''''''''`````````````````````", "0"));
