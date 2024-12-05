@@ -40,3 +40,4 @@ console.log(contamination("!@#$%^&*()_+!@#$%^&*()_+!@#$%^&*()_+!@#$%^&*()_+!@#$%
 console.log(contamination("Repeat11111111111111111", 'r'));
 console.log(contamination("", ''));
 console.log(contamination("98765432", '}'));
+console.log(contamination("UpperCaseTESTJYTHGFDSGHJUYTHGFDFEGREHTYJTHREGF", 'L'));
