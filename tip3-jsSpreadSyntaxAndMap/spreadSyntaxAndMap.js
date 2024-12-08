@@ -43,3 +43,4 @@ console.log(contamination("98765432", '}'));
 console.log(contamination("UpperCaseTESTJYTHGFDSGHJUYTHGFDFEGREHTYJTHREGF", 'L'));
 console.log(contamination("^^^%%%$$$###@@@!!!)))(((***&&&&^^^%%$$###@!!~~~~~{{{}}}[[[]]]][]{}{}:::;;;,,,.....||||\\\\====-----____++++????å¡™£¢∞§¶•ªº–≠∑´®†¥¨ˆøπåß∂ƒ©˙∆˚¬…æ≈ç√∫˜≤", 'µ'));
 console.log(contamination(";;;;;;;;;;;;;;;;;;;;", '.'));
+console.log(contamination("å¡™£¢∞§¶•ªº–≠∑´®†¥¨ˆøπåß∂ƒ©˙∆˚¬…æ≈ç√∫˜≤", '1'));
