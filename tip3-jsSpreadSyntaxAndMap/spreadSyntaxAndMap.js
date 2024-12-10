@@ -46,3 +46,4 @@ console.log(contamination(";;;;;;;;;;;;;;;;;;;;", '.'));
 console.log(contamination("å¡™£¢∞§¶•ªº–≠∑´®†¥¨ˆøπåß∂ƒ©˙∆˚¬…æ≈ç√∫˜≤", '1'));
 console.log(contamination("|||||||||||||||||||||||", ''));
 console.log(contamination("`````", "'"));
+console.log(contamination("345654dfghytreasdfgh.,gf", '~'));
