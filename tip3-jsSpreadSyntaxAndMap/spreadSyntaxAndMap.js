@@ -50,3 +50,4 @@ console.log(contamination("345654dfghytreasdfgh.,gf", '~'));
 console.log(contamination("[][][][][]", ''));
 console.log(contamination("{}{}{}{}{}{}{}{}{}{}", ''));
 console.log(contamination("()()()()()()()()()()", ''));
+console.log(contamination("{([([([[{()}]])])])}", ''));
