@@ -70,3 +70,4 @@ console.log(contamination("√µ√µ√µ√µ√µ√µ√µ√µ√µ√µ√
 console.log(contamination("æææææææææææææææææ", '≥'));
 console.log(contamination("«««««««««««««««««", '≥'));
 console.log(contamination("ååååååååååååååååå", '≥'));
+console.log(contamination("¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬", '≥'));
