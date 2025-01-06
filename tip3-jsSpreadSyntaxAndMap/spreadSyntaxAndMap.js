@@ -72,3 +72,4 @@ console.log(contamination("«««««««««««««««««", '≥'));
 console.log(contamination("ååååååååååååååååå", '≥'));
 console.log(contamination("¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬", '≥'));
 console.log(contamination("˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜", '≥'));
+console.log(contamination("££££££££££££££££•¶§∞", '≥'));
