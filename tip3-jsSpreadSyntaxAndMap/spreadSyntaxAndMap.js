@@ -76,3 +76,4 @@ console.log(contamination("££££££££££££££££•¶§∞", '≥'));
 console.log(contamination("∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫", '≥'));
 console.log(contamination("‘‘‘‘‘‘‘‘‘‘‘‘‘‘“ß∂¬ƒ˚∆©˜", '≥'));
 console.log(contamination("œß∑∑∑∑∑∑∑∑∑∑∑∑∑∑∑", '≥'));
+console.log(contamination("¬˚∆˙©ƒ∂", '≥'));
