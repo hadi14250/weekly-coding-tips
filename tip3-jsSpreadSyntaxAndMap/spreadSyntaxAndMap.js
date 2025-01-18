@@ -83,3 +83,4 @@ console.log(contamination("§§§§§§§§§§§§§§§§§§", '≥'));
 console.log(contamination("¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶", '≥'));
 console.log(contamination("••••••••••••••••••", '≥'));
 console.log(contamination("ªªªªªªªªªªªªªªªªªª", '≥'));
+console.log(contamination("ºººººººººººººººººº", '≥'));
