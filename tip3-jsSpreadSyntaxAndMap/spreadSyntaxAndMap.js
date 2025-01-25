@@ -90,3 +90,4 @@ console.log(contamination("««««««««««««««««««", '≥'));
 console.log(contamination("‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘", '≥'));
 console.log(contamination("““““““““““““““““““", '≥'));
 console.log(contamination("ππππππππππππππππππ", '≥'));
+console.log(contamination("øøøøøøøøøøøøøøøøøø", '≥'));
