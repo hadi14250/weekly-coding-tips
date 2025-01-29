@@ -95,3 +95,4 @@ console.log(contamination("ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ", '≥'));
 console.log(contamination("¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨", '≥'));
 console.log(contamination("¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥", '≥'));
 console.log(contamination("††††††††††††††††††", '≥'));
+console.log(contamination("®®®®®®®®®®®®®®®®®®", '≥'));
