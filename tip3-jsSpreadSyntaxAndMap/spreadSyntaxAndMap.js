@@ -99,5 +99,6 @@ console.log(contamination("®®®®®®®®®®®®®®®®®®", '≥'));
 console.log(contamination("´´´´´´´´´´´´´´´´´´", '≥'));
 console.log(contamination("∑∑∑∑∑∑∑∑∑∑∑∑∑∑∑∑∑∑", '≥'));
 console.log(contamination("œœœœœœœœœœœœœœœœœœ", '≥'));
-console.log(contamination("åååååååååååååååååå", '≥'));
+console.log(contamination("åååååååååååååååååå", '≥'))
+console.log(contamination("ßßßßßßßßßßßßßßßßßß", '≥'))
 
