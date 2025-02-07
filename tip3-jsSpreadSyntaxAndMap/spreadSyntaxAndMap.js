@@ -102,4 +102,5 @@ console.log(contamination("œœœœœœœœœœœœœœœœœœ", '≥'));
 console.log(contamination("åååååååååååååååååå", '≥'))
 console.log(contamination("ßßßßßßßßßßßßßßßßßß", '≥'))
 console.log(contamination("∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂", '≥'))
+console.log(contamination("ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ", '≥'))
 
