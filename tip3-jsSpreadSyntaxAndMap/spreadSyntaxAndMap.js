@@ -111,3 +111,4 @@ console.log(contamination("¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬", '≥'));
 console.log(contamination("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈", '≥'));
 console.log(contamination("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈", '≥'));
 console.log(contamination("ææææææææææææææææææ", '≥'));
+console.log(contamination("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈", '≥'));
