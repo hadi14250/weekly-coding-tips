@@ -128,4 +128,6 @@ console.log(contamination("§§§§§§§§§§§§§§§§§§§§", '≥'));
 console.log(contamination("¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶", '≥'));
 console.log(contamination("•••••••••••••••••••", '≥'));
 console.log(contamination("ªªªªªªªªªªªªªªªªªªª", '≥'));
+console.log(contamination("ººººººººººººººººººº", '≥'));
+
 
