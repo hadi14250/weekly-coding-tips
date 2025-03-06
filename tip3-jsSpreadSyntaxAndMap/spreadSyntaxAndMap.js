@@ -131,3 +131,4 @@ console.log(contamination("ªªªªªªªªªªªªªªªªªªª", '≥'));
 console.log(contamination("ººººººººººººººººººº", '≥'));
 console.log(contamination("–––––––––––––––––––", '≥'));
 console.log(contamination("≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠", '≥'));
+console.log(contamination("œœœœœœœœœœœœœœœœœœœ", '≥'));
