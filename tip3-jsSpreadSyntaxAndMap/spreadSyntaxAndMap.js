@@ -141,3 +141,4 @@ console.log(contamination("•¨∆´˙∂©ß∆˙∆´˚∂∆´´∆", '≥')
 console.log(contamination("ß˙ø“‘‘‘‘‘‘‘“““““““", '≥'));
 console.log(contamination("««««««««««««««««««", '≥'));
 console.log(contamination("§§§§§§§§§§§§§§§§§§", '≥'));
+console.log(contamination("∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆", '≥'));
