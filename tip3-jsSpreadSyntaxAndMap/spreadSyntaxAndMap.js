@@ -150,3 +150,4 @@ console.log(contamination("œœœœœœœœœœœœœœœœœœ", '≥'));
 console.log(contamination("√√√√√√√√√√√√√√√√√√", '≥'));
 console.log(contamination("∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫∫", '≥'));
 console.log(contamination("µµµµµµµµµµµµµµµµµµ", '≥'));
+console.log(contamination("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈", '≥'));
